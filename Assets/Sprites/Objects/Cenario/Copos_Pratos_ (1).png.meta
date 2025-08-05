@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: ba2205e91da4113409b239d6d56c227a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338435e7fb65f6444918d002dffd2e62
+      internalID: -588888943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f438797e051f64ab17868cf9579d17
+      internalID: 489503589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53723c4f5f160a54bb014a1354d27608
+      internalID: 1891931334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7ce54932b90794194dc8d27a2de27c
+      internalID: 992974962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c6765737be48b41b436e07a6fabd7d
+      internalID: 115141637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 226
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f89833194ff504d99159d0dbd0a94f
+      internalID: 1479532675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd11a42506e2264f8096d31c2ec09c2
+      internalID: -201824426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc1c25350ea3f41afe0aba786a7f37
+      internalID: -148541940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f2b2e46f08e424fae5e69e81c210bf
+      internalID: 337919553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eda945ddeaa2044924d6086fe8e50a
+      internalID: -463335374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7592b00422744f9e6bd9b1362cdff
+      internalID: 1219848697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45624051a4463f47b2b9ad4e67a34ba
+      internalID: -41540925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e2160ee3576d344a7e50b62f6e39fa
+      internalID: 1164484307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acd69b1565f12b469f754ca5dac5922
+      internalID: -1791436742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32bc934c2a631a4cad3c574f60556dd
+      internalID: -2080948330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcef4a94d9d36d4b953b73e1a49e919
+      internalID: 1748361491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272aaba6c0d6574d8e2d45b67c5a0b3
+      internalID: 933374793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6649a9a481c9f24db8d8f53f625577c
+      internalID: -1523397269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd345e8fc5270a7468847f83997db88d
+      internalID: 439327128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af97578b62133df4e8ca2509884d774c
+      internalID: 46434570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406839c65b0d12d44b9f00e02d0177c7
+      internalID: -308097225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206a6763f2512244bb69910a3f2b301b
+      internalID: 1843246321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f0afa1cb0d0af4ea56389e17d7d453
+      internalID: -1162217014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0cacd2c3ee74341bfdee20f5364b33
+      internalID: -628145637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b97193aba8634580eb2d8359192b5
+      internalID: -1823317841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d183a4c9c1154f8fc2aaa8e281991
+      internalID: -2105246309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bb72d8fd6e74040ac42cc03ff2868a
+      internalID: 322330478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e379f4f0f847e46a8b1d33435885b6
+      internalID: -36821654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1aedf18c56c14aa9c4001d524072c
+      internalID: -1633714973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82b40b3daded91429f88f1ebb314b00
+      internalID: 915863253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb7e051b50f63e4ba3ce1b8312e7c39
+      internalID: 2107660313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6385a0208655c847995806b3cfa8ea7
+      internalID: -1614673334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9873befb2847374da984039910893bb
+      internalID: -125557972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7ac6d4d2aa07e418d33acb63b311f6
+      internalID: 661094609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda8804042908040abffb35c5d05131
+      internalID: 2100373513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50af60185495d841803cb1cfbd179fd
+      internalID: -116518242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copos_Pratos_ (1)_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cac9a148bd32649a484592bbfa26db
+      internalID: 823318631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Copos_Pratos_ (1)_0: -588888943
+      Copos_Pratos_ (1)_1: 489503589
+      Copos_Pratos_ (1)_10: 1219848697
+      Copos_Pratos_ (1)_11: -41540925
+      Copos_Pratos_ (1)_12: 1164484307
+      Copos_Pratos_ (1)_13: -1791436742
+      Copos_Pratos_ (1)_14: -2080948330
+      Copos_Pratos_ (1)_15: 1748361491
+      Copos_Pratos_ (1)_16: 933374793
+      Copos_Pratos_ (1)_17: -1523397269
+      Copos_Pratos_ (1)_18: 439327128
+      Copos_Pratos_ (1)_19: 46434570
+      Copos_Pratos_ (1)_2: 1891931334
+      Copos_Pratos_ (1)_20: -308097225
+      Copos_Pratos_ (1)_21: 1843246321
+      Copos_Pratos_ (1)_22: -1162217014
+      Copos_Pratos_ (1)_23: -628145637
+      Copos_Pratos_ (1)_24: -1823317841
+      Copos_Pratos_ (1)_25: -2105246309
+      Copos_Pratos_ (1)_26: 322330478
+      Copos_Pratos_ (1)_27: -36821654
+      Copos_Pratos_ (1)_28: -1633714973
+      Copos_Pratos_ (1)_29: 915863253
+      Copos_Pratos_ (1)_3: 992974962
+      Copos_Pratos_ (1)_30: 2107660313
+      Copos_Pratos_ (1)_31: -1614673334
+      Copos_Pratos_ (1)_32: -125557972
+      Copos_Pratos_ (1)_33: 661094609
+      Copos_Pratos_ (1)_34: 2100373513
+      Copos_Pratos_ (1)_35: -116518242
+      Copos_Pratos_ (1)_36: 823318631
+      Copos_Pratos_ (1)_4: 115141637
+      Copos_Pratos_ (1)_5: 1479532675
+      Copos_Pratos_ (1)_6: -201824426
+      Copos_Pratos_ (1)_7: -148541940
+      Copos_Pratos_ (1)_8: 337919553
+      Copos_Pratos_ (1)_9: -463335374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

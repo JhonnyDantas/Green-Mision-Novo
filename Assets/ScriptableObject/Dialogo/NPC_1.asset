@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284ac734a0dee2849a09d9e5c89ae8ef, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 8299472969712684646, guid: 07c38b3314815e3449e6e0e98fb335ab, type: 3}
+  spearkSprite: {fileID: 21300000, guid: 761487c0896859e42a1c471fe4cc6c3b, type: 3}
+  sentence: 
+  dialogues:
+  - actorName: Julia
+    profile: {fileID: -1627802092, guid: 8e71cfb7890fe2f41a4fa197f266b290, type: 3}
+    sentence:
+      portugues: eai, tudo bem
+      ingles: Hello, how are you?
+      espanhol: "Hola, \xBFc\xF3mo van las cosas?"
+  - actorName: julia
+    profile: {fileID: -1627802092, guid: 8e71cfb7890fe2f41a4fa197f266b290, type: 3}
+    sentence:
+      portugues: dia lindo esse
+      ingles: this is a beautiful day
+      espanhol: este es un hermoso dia
+  - actorName: julia
+    profile: {fileID: -1627802092, guid: 8e71cfb7890fe2f41a4fa197f266b290, type: 3}
+    sentence:
+      portugues: tchauuu
+      ingles: byeeeee
+      espanhol: "adi\xF3ssss"

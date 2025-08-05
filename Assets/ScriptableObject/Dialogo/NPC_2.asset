@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284ac734a0dee2849a09d9e5c89ae8ef, type: 3}
+  m_Name: NPC_2
+  m_EditorClassIdentifier: 
+  actor: {fileID: 3031010068932094377, guid: 4513da58fb63abc4580bb223bfc6b5ac, type: 3}
+  spearkSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: RODRIGO
+    profile: {fileID: 21300000, guid: cdab4c76c5e1a0349818ad289aa23174, type: 3}
+    sentence:
+      portugues: OLA MAN
+      ingles: 
+      espanhol: 

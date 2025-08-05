@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Objeto
+  - Flor
+  - Bala
+  - Onibus
+  - NPC
+  - JogarLixo
+  - Inimigo
+  - Ferrari
+  - Fusca
+  - Transition
+  - CarroPopular
+  - Fiat
+  - Regador
+  - Arma
+  - Lixo
+  - Agua
+  - Parede
+  - C
+  - PlayerDetect
+  - Reguar
+  - Caderninho
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 79117565
+    locked: 0
+  - name: 2
+    uniqueID: 952039669
+    locked: 0
+  - name: 3
+    uniqueID: 2409030251
+    locked: 0
+  - name: 4
+    uniqueID: 2464290945
+    locked: 0
+  - name: 5
+    uniqueID: 1740022039
+    locked: 0
+  - name: 6
+    uniqueID: 1961669933
+    locked: 0
+  - name: 7
+    uniqueID: 3753806165
+    locked: 0
+  - name: 8
+    uniqueID: 562349875
+    locked: 0
+  - name: 9
+    uniqueID: 3359228311
+    locked: 0
+  - name: 10
+    uniqueID: 160150573
+    locked: 0
+  - name: 11
+    uniqueID: 2172042627
+    locked: 0
+  - name: 12
+    uniqueID: 2157794731
+    locked: 0
+  - name: 13
+    uniqueID: 2689364717
+    locked: 0
+  - name: 14
+    uniqueID: 2872588919
+    locked: 0
+  - name: 15
+    uniqueID: 2836400167
+    locked: 0
+  - name: 16
+    uniqueID: 3124655283
+    locked: 0
+  - name: 17
+    uniqueID: 2946899795
+    locked: 0

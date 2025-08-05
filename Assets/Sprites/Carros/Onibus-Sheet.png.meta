@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 3e92a86700caed24aa0888a44b99a745
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Onibus-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42bef9e749c2284f9f50f95eb2f580d
+      internalID: -362842428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ec807c323e8c94ba38e4a6d05e97bc
+      internalID: -488994199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89dd4b80cf033a4fb58d8e4983f0170
+      internalID: -1128973628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4fa0c330c463f4884acfb42326d5e7
+      internalID: 1418167485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ee89a472515f543b1e5ac1b5d40d1c
+      internalID: 1554469493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8cd615db95f6e4e9eec633e2035360
+      internalID: -1736667647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d042087808b1b4780d3abbe76490f9
+      internalID: -728089960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9018160ca384b04585944f9e4b39aed
+      internalID: -1831378806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd0640451525e54598444b32296cc26
+      internalID: -1159660397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 364
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cd1f312fdfbf04cae1f68e86be8765
+      internalID: -196122697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dd535c8d9a788498e2afcb36f7796a
+      internalID: -610825211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e1cc9c7a412e478ecc9e4e0d86e43
+      internalID: 883427673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33da096a88f14044a3740b2c37d6c2b
+      internalID: -934228213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491ba61598a68c4885102d3c521d7cb
+      internalID: -1175080698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa2da2f81ecfe468c361b92a926ed1
+      internalID: -1593203198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be172f96b6a65b4e81c8fb5f730925c
+      internalID: -295562574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc390bbeed1b1447a48ea42de0a0400
+      internalID: 411842275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff7a645ed4eefd48a7d76324cab0a85
+      internalID: 680203990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982ba43d6865ec4486113ac23b6cc19
+      internalID: -665258399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 282
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ed69193164844d97a74b55cbf82f6
+      internalID: 1781251171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51edc6b5e98e94a9650ca01f620b36
+      internalID: -603237856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd047b9a9e043404ea4682d5202ae826
+      internalID: -667180370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397731853f623884091a82412d9d3bcc
+      internalID: 601725062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b8ba9492514c48aaa0e206c16d669
+      internalID: -2132248719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ac268aa16a604e83acab863a952b1
+      internalID: 205486725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd1275602b27846b2a01ea4357a6bc
+      internalID: -237650217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc526544f91eedc40931708cfcd802e4
+      internalID: 7133636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8aea8072ae7974086889d626e041dc
+      internalID: 1164470990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c83d25c5b3d01469dfc7425bb5ad6b
+      internalID: -1171622406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 201
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08edcd8e797b8f4c93eda5e002f7889
+      internalID: 1765613092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4d729a32693a34b926f4e4ea8268b9
+      internalID: 10569866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07ee1245d7ffa4c9108cf4ec67ae1e
+      internalID: -641869305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c20206cb7d36bb4eb41a105e3260667
+      internalID: 1461860851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16c96079a49374c9146c5ab898cc69
+      internalID: 1313634888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8768d24228d5145a088f9d24369db9
+      internalID: -473466041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7f40942d0e86f45944f62c86681f59
+      internalID: 845483066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a2f734475b9f4193b68032bf4aa4b
+      internalID: -2028149108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923bb931c55d6e4ea41aa721d566386
+      internalID: -1385101462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7dc99e1df35343a85c07f93ac3c44
+      internalID: -1807007147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 105
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817980bdfbfb8484c892c1f9040fd5e1
+      internalID: 357266987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d6e94da0f7afe47848e6710240d494
+      internalID: 1364001287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 9
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a6ef2f0e7c6744b2f605285c50671
+      internalID: -1079280870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 9
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23f500cd34a09c48a7fe5e27dbbab4c
+      internalID: 1826779917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 9
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4133ef1811c8243439578c6420c89d43
+      internalID: 758428184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 9
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8bebbec32eb1459253db0a6bdfdc7
+      internalID: 1546964344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Onibus-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 9
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10779230e8f35fe48b7c685d29db3e47
+      internalID: 1847484801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Onibus-Sheet_0: -362842428
+      Onibus-Sheet_1: -488994199
+      Onibus-Sheet_10: -610825211
+      Onibus-Sheet_11: 883427673
+      Onibus-Sheet_12: -934228213
+      Onibus-Sheet_13: -1175080698
+      Onibus-Sheet_14: -1593203198
+      Onibus-Sheet_15: -295562574
+      Onibus-Sheet_16: 411842275
+      Onibus-Sheet_17: 680203990
+      Onibus-Sheet_18: -665258399
+      Onibus-Sheet_19: 1781251171
+      Onibus-Sheet_2: -1128973628
+      Onibus-Sheet_20: -603237856
+      Onibus-Sheet_21: -667180370
+      Onibus-Sheet_22: 601725062
+      Onibus-Sheet_23: -2132248719
+      Onibus-Sheet_24: 205486725
+      Onibus-Sheet_25: -237650217
+      Onibus-Sheet_26: 7133636
+      Onibus-Sheet_27: 1164470990
+      Onibus-Sheet_28: -1171622406
+      Onibus-Sheet_29: 1765613092
+      Onibus-Sheet_3: 1418167485
+      Onibus-Sheet_30: 10569866
+      Onibus-Sheet_31: -641869305
+      Onibus-Sheet_32: 1461860851
+      Onibus-Sheet_33: 1313634888
+      Onibus-Sheet_34: -473466041
+      Onibus-Sheet_35: 845483066
+      Onibus-Sheet_36: -2028149108
+      Onibus-Sheet_37: -1385101462
+      Onibus-Sheet_38: -1807007147
+      Onibus-Sheet_39: 357266987
+      Onibus-Sheet_4: 1554469493
+      Onibus-Sheet_40: 1364001287
+      Onibus-Sheet_41: -1079280870
+      Onibus-Sheet_42: 1826779917
+      Onibus-Sheet_43: 758428184
+      Onibus-Sheet_44: 1546964344
+      Onibus-Sheet_45: 1847484801
+      Onibus-Sheet_5: -1736667647
+      Onibus-Sheet_6: -728089960
+      Onibus-Sheet_7: -1831378806
+      Onibus-Sheet_8: -1159660397
+      Onibus-Sheet_9: -196122697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

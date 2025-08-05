@@ -1,0 +1,4 @@
+repository "Green Mission Adventure (BETA)@Silvinhaxx@cloud"
+  path "/"
+    br "/main"
+    co "/main"
