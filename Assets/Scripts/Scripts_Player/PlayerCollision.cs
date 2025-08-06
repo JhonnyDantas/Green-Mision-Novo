@@ -13,6 +13,8 @@ public class PlayerCollision : MonoBehaviour
     public GameObject buttonCaderno;
     public GameObject buttonColetaAgua;
     public GameObject buttonConsertar;
+    public GameObject buttonEscalada;
+    public GameObject buttonPingPong;
     private GameObject activeButton; // Referência ao botão atualmente ativo
 
 
@@ -49,7 +51,9 @@ public class PlayerCollision : MonoBehaviour
             { "Agua", buttonColetaAgua },
             { "Arma", buttonArmaInseticida },
             { "Objeto", buttonConsertar },
-            { "Caderninho", buttonCaderno }
+            { "Caderninho", buttonCaderno },
+            { "MiniGamePong",buttonPingPong},
+            { "MiniGameEscalada",buttonEscalada},
         };
 
         // Certifique-se de que todos os botões começam desativados

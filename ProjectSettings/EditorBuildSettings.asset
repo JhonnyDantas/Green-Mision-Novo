@@ -8,19 +8,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ScenesMapaPrincipal/Menu.unity
     guid: c1ffcf25af7aaed4b9e15ac0ccf16414
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/MiniGames/Escalada/Mini_Game/Scenes/InicioEscalada.unity
-    guid: eabf0ee49848c2d4698dd7ea1d27f11d
-  - enabled: 1
-    path: Assets/MiniGames/Escalada/Mini_Game/Scenes/MiniGameEscalada.unity
-    guid: ad7d589ca1a391a4ba7ec659f2322125
-  - enabled: 1
-    path: Assets/MiniGames/Escalada/Mini_Game/Scenes/GameOverEscalada.unity
-    guid: f94cc213558ec5744b10e52e90c9ccf0
   - enabled: 1
     path: Assets/ScenesMapaPrincipal/Jogo.unity
     guid: e39d0c2248259ed4382ab8e40011996a
+  - enabled: 1
+    path: Assets/MiniGames/PingPong/CenasPong/MiniGamePong.unity
+    guid: 8f030a503dea57a4a9c91666b5e7ffdd
+  - enabled: 1
+    path: Assets/MiniGames/PingPong/CenasPong/PongFacil.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/MiniGames/PingPong/CenasPong/PongMedio.unity
+    guid: 290da81f64e303148bad9cf24bb3929e
+  - enabled: 1
+    path: Assets/MiniGames/PingPong/CenasPong/PongDificil.unity
+    guid: 26ea63a8ef496d34dbbc7642b02f5674
+  - enabled: 1
+    path: Assets/MiniGames/MIni/Scenes/MiniGameEscalada.unity
+    guid: eabf0ee49848c2d4698dd7ea1d27f11d
+  - enabled: 1
+    path: Assets/MiniGames/MIni/Scenes/Escalada.unity
+    guid: ad7d589ca1a391a4ba7ec659f2322125
+  - enabled: 1
+    path: Assets/MiniGames/MIni/Scenes/GameOverEscalada.unity
+    guid: f94cc213558ec5744b10e52e90c9ccf0
   m_configObjects: {}

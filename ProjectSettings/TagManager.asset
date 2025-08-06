@@ -25,6 +25,10 @@ TagManager:
   - PlayerDetect
   - Reguar
   - Caderninho
+  - PowerUp
+  - Bola
+  - MiniGamePong
+  - MiniGameEscalada
   layers:
   - Default
   - TransparentFX
